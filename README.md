@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![top lan](https://github-stats.ubrong.com/api/top-langs/?username=zxgsn)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
