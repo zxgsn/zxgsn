@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxgsn)](https://github.com/anuraghazra/github-readme-stats)
 
-![zxgsn's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxgsn&layout=compact&hide_border=true&langs_count=10)
+![zxgsn's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibo&layout=compact&hide_border=true&langs_count=10)
